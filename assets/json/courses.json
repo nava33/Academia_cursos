@@ -1,0 +1,58 @@
+[
+  {
+    "instructor": "Marvin",
+    "name": "Flutter",
+    "numLessons": 16,
+    "curseDuration": 8,
+    "image": "assets/images/flutter.jpg",
+    "selected" : false,
+    "lesson" : {
+      "names": [
+        "Leccion 1", "Leccion 2", "Leccion 3", "Leccion 4", "Leccion 5", "Leccion 6", "Leccion 7", "Leccion 8"
+      ],
+      "duration" : 20
+    }
+  },
+  {
+    "instructor": "Daniel",
+    "name": "Firebase",
+    "numLessons": 16,
+    "curseDuration": 8,
+    "image": "assets/images/firebase.png",
+    "selected" : false,
+    "lesson" : {
+      "names": [
+        "Leccion 1", "Leccion 2", "Leccion 3", "Leccion 4", "Leccion 5", "Leccion 6", "Leccion 7", "Leccion 8"
+      ],
+      "duration" : 20
+    }
+  },
+  {
+    "instructor": "Kevin",
+    "name": "Dart",
+    "numLessons": 16,
+    "curseDuration": 8,
+    "image": "assets/images/dart.png",
+    "selected" : false,
+    "lesson" : {
+      "names": [
+        "Leccion 1", "Leccion 2", "Leccion 3", "Leccion 4", "Leccion 5", "Leccion 6", "Leccion 7", "Leccion 8"
+      ],
+      "duration" : 20
+    }
+  },
+  {
+    "instructor": "Alejandro",
+    "name": "Go",
+    "numLessons": 16,
+    "curseDuration": 8,
+    "image": "assets/images/go.png",
+    "selected" : false,
+    "lesson" : {
+      "names": [
+        "Leccion 1", "Leccion 2", "Leccion 3", "Leccion 4", "Leccion 5", "Leccion 6", "Leccion 7", "Leccion 8"
+      ],
+      "duration" : 20
+    }
+  }
+]
